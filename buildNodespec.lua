@@ -56,4 +56,4 @@ end
 
 local tmp = findNodesIn("stdlib")
 local nodeSpecList = createNodeSpecList(tmp)
-writeNodeSpecList(nodeSpecList, "../GPWebUI/data/Lua.nodes.json")
+writeNodeSpecList(nodeSpecList, "../GPWebUI/data/luaGP.nodes.json")
